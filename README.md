@@ -17,7 +17,7 @@ The Futurefuse project is a tech blog website aimed at providing readers with th
 
 ## Getting Started
 To get started with the Futurefuse project, follow these steps:
-1. Visit our website at futurefuse.com.
+1. Visit our website at https://thefuturefuse.netlify.app/.
 2. Explore the content by browsing articles, reviews, and tutorials related to topics such as AI, cybersecurity, blockchain, and more.
 3. Engage with the content by leaving comments and sharing articles on social media.
 4. To view the images used in the articles, make sure you have an active internet connection, as the images are sourced from the internet.
